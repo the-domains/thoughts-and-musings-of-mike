@@ -1,0 +1,28 @@
+name: Thoughts and Musings of Mike
+favicon: null
+layout_spectrum: 0.3390813642181456
+typography_spectrum: 0.19409151514992118
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.45513087208382785
+  lightness: 0.5331605321262032
+  saturation: 0.5111271166242659
+  rhythmicContrast: 0.911247982410714
+purpose: []
